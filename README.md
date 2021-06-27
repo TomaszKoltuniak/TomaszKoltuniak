@@ -9,7 +9,7 @@
 ### Languages and Tools:
 <img align="left" alt="Python" width="150px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Python" width="150px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Python" width="328px" src="https://sqlite.org/images/sqlite370_banner.gif" />
+<img align="left" alt="Python" width="327px" src="https://sqlite.org/images/sqlite370_banner.gif" />
 <img align="left" alt="Python" width="290px" src="https://i.ytimg.com/vi/zYKc5lm9E3E/maxresdefault.jpg" />
 
 
