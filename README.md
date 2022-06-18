@@ -3,7 +3,6 @@
 ## I'm a Python Junior Developer with a great desire to learn!
 - 👀 I'm interested in programming, finance and investing
 - 🌱 I'm currently learning Python programming
-- 💞️ I'm looking for a job as a Python Junior Developer
 - 📫 I'm currently working on a [Django_shop] app
 
 
