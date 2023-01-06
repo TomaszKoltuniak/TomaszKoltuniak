@@ -1,4 +1,4 @@
-### Hi, I'm @TomaszKoltuniak 👋
+##### Hi, I'm @TomaszKoltuniak 👋
 
 ## I'm highschool student with a great desire to learn!
 
