@@ -16,7 +16,8 @@ Hi there! I'm Tomasz Kołtuniak and I'm an aspiring software developer. I'm a st
 - BVLOS NSTS-05 (European Union Aviation Safety Agency)
 
 # Experience
-- I completed a one-month internship as a network technician in the Network and Cybersecurity department at Leroy Merlin's headquarters in Warsaw.
+- One month internship as a network technician in the Network and Cybersecurity department at Leroy Merlin's headquarters in Warsaw.
+- One month internship as a IT technician in the IT Service Office at The Faculty of Electronics and Information Technology on Warsaw University of Technology.
 
 # Education
 - High school - Technikum elektroniczne nr 1 w Warszawie - Technik Informatyk
