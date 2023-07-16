@@ -2,8 +2,8 @@
 Hi there! I'm Tomasz Kołtuniak and I'm an aspiring software developer. I'm a student at an IT high school in Warsaw. I'm 19, currently learning programming and I'm excited to share my projects.
 
 # Skills
-- Programming in Python, Flask, JS, PHP and C.
-- Creating websites with HTML, CSS, JS and PHP.
+- Software development in Python, Flask, JS, PHP and C.
+- Web frontend with HTML and CSS.
 - Networking with Cisco and Palo Alto devices.
 - Databases like MySQL and SQLite.
 - BVLOS drones piloting. I have BVLOS NSTS-05 certificate.
