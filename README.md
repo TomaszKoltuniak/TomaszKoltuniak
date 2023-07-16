@@ -1,7 +1,7 @@
 # About me
 Hi there! I'm Tomasz Kołtuniak and I'm an aspiring software developer. I'm a student at an IT high school in Warsaw. I'm 19, currently learning programming and I'm excited to share my projects.
 
-<a href="www.linkedin.com/in/tomaszkoltuniak" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/tomaszkoltuniak" target="_blank">LinkedIn</a>
 
 # Skills
 - Software development in Python, Flask, JS, PHP and C.
