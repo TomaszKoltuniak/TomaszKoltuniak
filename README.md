@@ -8,7 +8,7 @@ Hi there! I'm Tomasz Kołtuniak and I'm an aspiring software developer. I'm a st
 - Databases like MySQL and SQLite.
 - BVLOS drones piloting. I have BVLOS NSTS-05 certificate.
 
-# Courses & certifications
+# Courses
 - CS50x Introduction to Computer Science (Harvard University)
 - CCNAv7: Introduction to networks (Cisco Networking Academy)
 - IT Essentials: PC Hardware and Software (Cisco Networking Academy)
