@@ -1,23 +1,25 @@
 # About me
-Hi there! I'm Tomasz Kołtuniak and I'm an aspiring software developer. I'm a student at an IT high school in Warsaw. I'm 18, currently learning programming and I'm excited to share my projects.
+Hi there! I'm Tomasz Kołtuniak and I'm an aspiring software developer. I'm a student at an IT high school in Warsaw. I'm 19, currently learning programming and I'm excited to share my projects.
 
 # Skills
-- Programming in Python, JS and C. Also using concepts like: object oriented programming and test driven development.
-- Creating websites with HTML, CSS and JS.
+- Programming in Python, Flask, JS, PHP and C.
+- Creating websites with HTML, CSS, JS and PHP.
 - Networking with Cisco and Palo Alto devices.
 - Databases like MySQL and SQLite.
-- BVLOS drones piloting. I have NSTS-05 certificate.
+- BVLOS drones piloting. I have BVLOS NSTS-05 certificate.
 
 # Courses & certifications
 - CS50x Introduction to Computer Science (Harvard University)
 - CCNAv7: Introduction to networks (Cisco Networking Academy)
 - IT Essentials: PC Hardware and Software (Cisco Networking Academy)
 - Ethical Hacking & Cybersecurity (Strefa Kursów)
-- BVLOS NSTS-05 (European Union Aviation Safety Agency)
+- BVLOS NSTS-05 (Urząd Lotnictwa Cywilnego)
 
 # Experience
-- One month internship as a network technician in the Network and Cybersecurity department at Leroy Merlin's headquarters in Warsaw.
-- One month internship as an IT technician in the IT Service Office at The Faculty of Electronics and Information Technology on Warsaw University of Technology.
+- Junior Full Stack Software Developer Internship at EU Mobility Sverige in Malmö Sweden
+- Junior Full Stack Software Developer Internship at FiberTeam in Warsaw
+- Database Administrator Internship at Warsaw University of Technology
+- Network Technician Internship at Department of IT networks and cybersecurity in Leroy Merlin Headquarters in Warsaw
 
 # Education
 - High school - Technikum elektroniczne nr 1 w Warszawie - Technik Informatyk
