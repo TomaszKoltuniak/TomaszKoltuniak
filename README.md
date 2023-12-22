@@ -1,7 +1,6 @@
-# About me
+# About me [LinkedIn](https://www.linkedin.com/in/tomaszkoltuniak)
 Hi, I'm a 19-year-old currently studying IT in high school in Warsaw. I'm mostly interested in programming and finance. In my free time, I enjoy hanging out with cats, cycling, drone piloting, and learning about urban planning.
 
-[LinkedIn](https://www.linkedin.com/in/tomaszkoltuniak)
 
 # Skills
 - Software development in Python, Flask, JS, PHP and C.
