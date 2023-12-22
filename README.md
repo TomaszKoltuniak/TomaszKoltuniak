@@ -1,5 +1,5 @@
 # About me
-Hi there! I'm Tomasz Kołtuniak and I'm an aspiring software developer. I'm a student at an IT high school in Warsaw. I'm 19, currently learning programming and I'm excited to share my projects.
+Hi, I'm a 19-year-old currently studying IT in high school in Warsaw. I'm mostly interested in programming and finance. In my free time, I enjoy hanging out with cats, cycling, drone piloting, and learning about urban planning.
 
 [LinkedIn](https://www.linkedin.com/in/tomaszkoltuniak)
 
