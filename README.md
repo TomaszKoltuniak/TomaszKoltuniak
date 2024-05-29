@@ -1,6 +1,5 @@
 # About me [LinkedIn](https://www.linkedin.com/in/tomaszkoltuniak)
-Hi, I'm a 19-year-old currently studying IT in high school in Warsaw. I'm mostly interested in programming and finance. In my free time, I enjoy hanging out with cats, cycling, drone piloting, and learning about urban planning.
-
+Hi, I'm a 19 year old IT Technician from Warsaw. My main interests lie in programming and finance. In my free time, I love hanging out with cats, cycling, piloting drones, and learning about urban planning.
 
 # Skills
 - Software development in Python, Flask, JS, PHP and C.
@@ -17,13 +16,13 @@ Hi, I'm a 19-year-old currently studying IT in high school in Warsaw. I'm mostly
 - BVLOS NSTS-05 (Urząd Lotnictwa Cywilnego)
 
 # Experience
-- Junior Full Stack Software Developer Internship at EU Mobility Sverige in Malmö Sweden
+- Junior Full Stack Software Developer Internship at EU Mobility Sverige in Malmö
 - Junior Full Stack Software Developer Internship at FiberTeam in Warsaw
 - Database Administrator Internship at Warsaw University of Technology
 - Network Technician Internship at Department of IT networks and cybersecurity in Leroy Merlin Headquarters in Warsaw
 
 # Education
-- High school - Technikum elektroniczne nr 1 w Warszawie - Technik Informatyk
+- High school - Electronics Technical High School No. 1 in Warsaw - Technik Informatyk
 
 # Programming languages
 <img align="left" alt="Python" title="Python" height="120px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
