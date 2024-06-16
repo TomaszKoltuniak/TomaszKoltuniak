@@ -1,5 +1,5 @@
 # About me [LinkedIn](https://www.linkedin.com/in/tomaszkoltuniak)
-Hi, I'm a 19 year old IT Technician from Warsaw. My main interests lie in programming and finance. In my free time, I love hanging out with cats, cycling, piloting drones, and learning about urban planning.
+Hi, I'm a 19 year old IT Technician from Warsaw.
 
 # Skills
 - Software development in Python, Flask, JS, PHP and C.
@@ -9,17 +9,17 @@ Hi, I'm a 19 year old IT Technician from Warsaw. My main interests lie in progra
 - BVLOS drones piloting. I have BVLOS NSTS-05 certificate.
 
 # Courses
-- CS50x Introduction to Computer Science (Harvard University)
+- CS50x Introduction to Computer Science (Harvard University Online)
 - CCNAv7: Introduction to networks (Cisco Networking Academy)
 - IT Essentials: PC Hardware and Software (Cisco Networking Academy)
 - Ethical Hacking & Cybersecurity (Strefa Kursów)
 - BVLOS NSTS-05 (Urząd Lotnictwa Cywilnego)
 
 # Experience
-- Junior Full Stack Software Developer Internship at EU Mobility Sverige in Malmö
-- Junior Full Stack Software Developer Internship at FiberTeam in Warsaw
-- Database Administrator Internship at Warsaw University of Technology
-- Network Technician Internship at Department of IT networks and cybersecurity in Leroy Merlin Headquarters in Warsaw
+- Junior Full Stack Software Developer Intern at EU Mobility Sverige in Malmö
+- Junior Full Stack Software Developer Intern at FiberTeam in Warsaw
+- Database Administrator Intern at Warsaw University of Technology
+- Network Administrator Intern at Department of IT networks and cybersecurity in Leroy Merlin Headquarters in Warsaw
 
 # Education
 - High school - Electronics Technical High School No. 1 in Warsaw - Technik Informatyk
