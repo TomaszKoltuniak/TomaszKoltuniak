@@ -1,5 +1,5 @@
 # About me [LinkedIn](https://www.linkedin.com/in/tomaszkoltuniak)
-Hi, I'm a 19 year old IT Technician from Warsaw.
+
 
 # Skills
 - Software development in Python, Flask, JS, PHP and C.
